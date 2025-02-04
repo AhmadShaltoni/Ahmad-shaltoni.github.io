@@ -234,14 +234,14 @@ a:hover {
 }
 
 .profile-img img {
-  width: 50vw; /* 30% من عرض الشاشة */
-  max-width: 300px; /* الحد الأقصى */
-  aspect-ratio: 1/1; /* إجبار الصورة على أن تكون مربعة */
+  width: 50vw; 
+  max-width: 300px; 
+  aspect-ratio: 1/1;
   object-fit: cover; 
   object-position: top;
-  border-radius: 50%; /* جعلها دائرية */
-  border: 5px solid white; /* إطار أبيض */
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2); /* ظل خفيف */
+  border-radius: 50%; 
+  border: 5px solid white; 
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
 }
 
 
